@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App-Bar-Top</string>
+    <string name="page_tittle">App Bar Top</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="content_description_favorite">Favorite Content</string>
+    <string name="content_description_search">Search Content</string>
+    <string name="content_description_more">More Content</string>
+</resources>
